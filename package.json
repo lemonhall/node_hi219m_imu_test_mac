@@ -1,0 +1,15 @@
+{
+  "name": "node_hi219m",
+  "version": "1.0.0",
+  "description": "IMU hi219m demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lemonhall2012@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^4.0.7",
+    "struct": "0.0.12"
+  }
+}
